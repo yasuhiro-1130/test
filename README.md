@@ -6,3 +6,5 @@ to practice github
 修正完了  
 
 さらに修正完了
+
+さらにさらに修正
