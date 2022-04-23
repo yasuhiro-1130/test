@@ -8,3 +8,5 @@ to practice github
 さらに修正完了
 
 さらにさらに修正
+
+forkの修正
